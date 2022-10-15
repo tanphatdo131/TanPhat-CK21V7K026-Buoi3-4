@@ -118,4 +118,4 @@ this.$emit("delete:contact", this.contactLocal.id);
 </script>
 <style scoped>
 @import "@/assets/form.css";
-</style>    
+</style>
